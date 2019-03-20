@@ -1,0 +1,3 @@
+newmtl torch
+	map_Kd torch3&4-diff.png
+	map_Kn torch3&4-normal.png
